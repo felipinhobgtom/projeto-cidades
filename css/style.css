@@ -195,21 +195,28 @@ header .navegacao a:hover{
     transform: scale(0.8);
 }
 
+.municipio .caixa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    position: absolute;
+    top: 70%;
+    left: 17%;
+    gap: 10px;
+}
+
 .municipio .caixa .botao{
     
     border: 2px solid #000;
     border-radius: 50%;
     height: 100px;
     width: 100px;
-}
-
-.municipio .caixa .botao.next-btn{
     margin-top: 70px;
     background: #FABC3F;
-    
 }
 
-.municipio .caixa .botao.next-btn a i{
+.municipio .caixa .botao a i{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -219,22 +226,16 @@ header .navegacao a:hover{
     font-size: 50px;
 }
 
-.municipio .caixa{
-    position: absolute;
-    top: 70%;
-    left: 22%;
-}
-
-.informacao span{
-    font-size: 20px;
-    font-weight: 500;
-}
-
 .informacao{
     position: relative;
     margin-top: 7%;
     left: 8%;
 }
+.informacao span{
+    font-size: 20px;
+    font-weight: 500;
+}
+
 
 .informacao .info1,
 .informacao .info2{
