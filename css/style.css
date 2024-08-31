@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Playfair Display", sans-serif;
+    text-decoration: none;
+}
+
+
+
+body{
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+    background-color: #fff;
+    color: #000;
+}
+
+header{
+    display: flex;
+    position: fixed;
+    justify-content: space-evenly;
+    width: 100%;
+    padding: 20px;
+    background-color: #9c0000;
+    z-index: 5;
+    
+}
+
+header .navegacao a{
+    font-size: 1.8rem;
+    font-weight: 500;
+    color: #cecece;
+    margin-right: 30px;
+    cursor: pointer;
+    border-bottom: 3px solid transparent;
+    transition: 0.2s ease;
+}
+
+header .navegacao a:hover{
+    color: #fff;
+    border-bottom: 3px solid #fff;
+}
+
+.info .turism{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transform: translateY(40%);
+    width: 830px;
+    margin-left: 10rem
+}
+
+.info .turism .title{
+    font-size: 50px;
+    cursor: default;
+   
+}
+
+.info .turism .title span{
+    color: #9c0000;
+    transition: all 0.3s ease;
+}
+
+.info .turism .title span:hover{
+    color: #ff0000;
+
+}
+
+.info .turism .desc{
+    margin-top: 20px;
+    font-size: 20px;
+    height: 100%;
+    width: 670px;
+}
+
+.info .turism .title .btn{
+    margin-top: 20px;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    height: 60px;
+    width: 80%;
+    background-color: #9c0000;
+    transition: 0.3s ease;
+    cursor: pointer;
+}
+
+.info .turism .title .btn:hover{
+    background-color: #ff0000;
+}
+
+.info .turism .title .btn a{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.lateral{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: repeat(6,1fr);
+}
+
+.lateral .flag{
+    position: relative;
+    grid-row: 4;
+    grid-column: 2/3;
+}
+
+#foto{
+    filter: drop-shadow(rgba(0,0,0,0.3)5px 5px 10px);
+}
+.lateral .flag::before{
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    border: 3px solid #000;
+    border-radius: 50%;
+    top: -10%;
+    left: -10%;
+    transform: scale(0.85);
+    z-index: -1;
+}
+
+.lateral .flag::after{
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    border: 3px solid #000;
+    border-radius: 50%;
+    top: 10%;
+    left: 10%;
+    transform: scale(0.8);
+    z-index: -2;
+}
+
+.saopaulo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 830px;
+    margin-top: 7%;
+    margin-left: 7%;
+}
+
+.saopaulo h1{
+    font-size: 60px;
+}
+
+.saopaulo h1 span{
+    color: #000;
+    cursor: default;
+    transition: 0.3s ease;
+}
+
+.saopaulo h1 span:hover{
+    color: #9c0000;
+}
+
+.saopaulo .cidades .exemplo{
+    margin-top: 70px;
+    height: 380px;
+    width: 870px;
+    position: relative;
+    
+}
+
+.saopaulo .cidades .exemplo img{
+    border: 3px solid #000;
+    width: 700px;
+    height: 410px;
+    z-index: 3;
+}
+
+.saopaulo .cidades .exemplo::after{
+    content: "";
+    position: absolute;
+    border: 3px solid #000;
+    background: #9c0000;
+    width: 800px;
+    height: 454px;
+    left: 1%;
+    top: -17%;
+    z-index: -1;
+    transform: scale(0.8);
+}
+
+.saopaulo .botao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #000;
+    border-radius: 50%;
+}
+
+.saopaulo .botao.next-btn{
+    margin-top: 70px;
+    background: #FABC3F;
+    /* cursor: pointer; */
+}
+
+.saopaulo .botao.next-btn a{
+    height: 100px;
+    width: 100px;
+    color: #000;
+    font-size: 50px;
+}
