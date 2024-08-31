@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=7">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="keywords" content="cidades, casas, edificios">
+    <meta name="description" content="O site perfeito para a sua cidade">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="img/city.png" type="image/x-icon">
+    <meta name="author" content="Felipe Barros Gouveia Tome">
+    <meta name="robots" content="index, all">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Projeto - Cidades</title>
+</head>
+
+<body>
+    <h1>
+        As 10 melhores cidades para turísmo no Estado de São Paulo
+    </h1>
+
+    <p>
+        O estado de São Paulo é um dos mais diversos e vibrantes do Brasil, oferecendo uma ampla gama de destinos
+        turísticos que atraem visitantes de todas as partes do país e do mundo. Desde as movimentadas metrópoles com
+        intensa vida cultural e gastronômica até pequenas cidades históricas e praias paradisíacas, São Paulo possui
+        algo para todos os gostos. Seja para quem busca aventuras em meio à natureza, relaxamento à beira-mar ou uma
+        imersão na rica história e cultura do país, as cidades paulistas oferecem experiências únicas e memoráveis.
+    </p>
+
+    <p>
+        Entre as melhores cidades para turismo no estado, destacam-se aquelas que combinam beleza natural,
+        infraestrutura turística de qualidade e atrações que encantam os visitantes. Da cosmopolita capital São Paulo,
+        com sua efervescência cultural, até a charmosa Campos do Jordão, conhecida como a “Suíça Brasileira”, o estado
+        revela destinos imperdíveis. Praias deslumbrantes em Ilhabela e Ubatuba, o ecoturismo em Brotas, e as
+        influências culturais em Holambra e Santos, são apenas alguns exemplos que ilustram a riqueza de opções para os
+        turistas. Essas cidades são verdadeiros tesouros de São Paulo, cada uma oferecendo uma experiência distinta e
+        enriquecedora.
+    </p>
+
+    <h2>
+        São Paulo (Capital)
+    </h2>
+    <a href="./sp.html"><img src="img/marginal-pinheiros.webp"
+            alt="A imagem mostra uma paisagem urbana da cidade de São Paulo, destacando a região da Marginal Pinheiros, uma importante via expressa da cidade. No centro da imagem, está a Ponte Estaiada Octavio Frias de Oliveira, uma ponte moderna e icônica que se eleva sobre o Rio Pinheiros, com seus cabos formando um design em formato de "
+            X"." width="600px" height="350px"></a>
+
+    <p>
+        São Paulo, a capital homônima do estado, é a maior cidade do Brasil e uma das mais dinâmicas e influentes
+        metrópoles do mundo. Conhecida por seu ritmo acelerado e por ser o coração econômico do país, São Paulo é uma
+        cidade que nunca dorme, oferecendo uma infinidade de oportunidades e experiências para seus habitantes e
+        visitantes. Com uma população diversificada e multicultural, a cidade é um verdadeiro mosaico de culturas e
+        influências, refletido em sua culinária variada, vida noturna vibrante e rica cena cultural. Museus renomados,
+        como o MASP (Museu de Arte de São Paulo) e o Museu do Ipiranga, teatros históricos como o Theatro Municipal, e
+        uma vasta gama de galerias de arte, cinemas e espaços culturais fazem de São Paulo um epicentro de criatividade
+        e inovação.
+    </p> <!-- mais dois parágrafos sobre o h2 -->
+
+    <p>
+        Além de ser um importante centro financeiro e cultural, São Paulo também é um destino turístico diversificado. A
+        Avenida Paulista, uma das avenidas mais icônicas da cidade, é o símbolo da modernidade e efervescência
+        paulistana, repleta de arranha-céus, centros culturais, lojas e restaurantes. Bairros como a Vila Madalena,
+        conhecida por sua arte urbana e vida noturna, e o Mercado Municipal, famoso por sua gastronomia local, oferecem
+        aos visitantes uma experiência autêntica da cidade. Com parques urbanos como o Parque Ibirapuera, que oferece um
+        oásis verde em meio à selva de concreto, e eventos anuais de grande porte, como a Parada LGBTQIA+ e a Virada
+        Cultural, São Paulo se destaca como um destino que une o cosmopolitismo com a autenticidade brasileira,
+        proporcionando uma experiência única para quem a visita.
+    </p>
+
+    <h2>
+        Campos do Jordão
+    </h2>
+
+    <a href="./cjordao.html"><img src="img/campos-jordao.webp"
+            alt="A imagem mostra a entrada da cidade de Campos do Jordão, um famoso destino turístico localizado na serra da Mantiqueira, no estado de São Paulo. A construção na imagem é um portal que recebe os visitantes, com arquitetura que lembra os chalés alpinos europeus, reforçando a influência europeia característica da cidade."
+            width="600px" height="350px"> </a>
+
+    <p>
+        Campos do Jordão, carinhosamente conhecida como a "Suíça Brasileira", é uma joia da Serra da Mantiqueira,
+        localizada no estado de São Paulo. Este charmoso município é famoso por seu clima ameno e agradável,
+        especialmente durante o inverno, quando as temperaturas caem e a cidade se torna um refúgio para aqueles que
+        buscam um ambiente acolhedor e romântico. Com sua arquitetura em estilo europeu, Campos do Jordão oferece um
+        cenário que remete aos vilarejos alpinos, com chalés de madeira, telhados inclinados e jardins floridos. Este
+        destino é particularmente popular entre casais e famílias que desejam aproveitar o clima frio, degustar fondues
+        em restaurantes aconchegantes e explorar as paisagens montanhosas.
+    </p>
+    <p>
+        Além de sua beleza arquitetônica e natural, Campos do Jordão é também um centro cultural e de entretenimento
+        durante o inverno. O Festival Internacional de Inverno, realizado anualmente, atrai músicos e visitantes de todo
+        o país para apreciar apresentações de música clássica e outras expressões artísticas. A cidade também oferece
+        uma variedade de atividades ao ar livre, como trilhas, passeios de teleférico e visitas ao Horto Florestal, que
+        proporcionam vistas panorâmicas deslumbrantes. Com suas boutiques charmosas, chocolaterias e vinícolas locais,
+        Campos do Jordão se destaca como um destino turístico completo, que combina elegância, cultura e contato com a
+        natureza, fazendo dela um dos principais pontos de visitação em São Paulo.
+    </p>
+
+    <h2>
+        Ilhabela
+    </h2>
+
+    <a href="./ilhabela.html"><img src="img/ilhabela.jpg"
+            alt="A imagem mostra uma bela paisagem costeira de Ilhabela, um dos destinos turísticos mais famosos do estado de São Paulo. A cena captura uma enseada com águas incrivelmente claras, que variam de tons de azul profundo a turquesa, criando um contraste impressionante com a vegetação exuberante ao redor."
+            width="600px" height="350px"></a>
+
+    <p>
+        Ilhabela, localizada no litoral norte do estado de São Paulo, é um dos destinos mais cobiçados para quem busca
+        praias paradisíacas e contato íntimo com a natureza. Composta por um arquipélago de 14 ilhas e ilhotas, sendo a
+        maior delas a Ilha de São Sebastião, Ilhabela é famosa por suas praias de águas cristalinas, vegetação
+        exuberante e montanhas cobertas pela Mata Atlântica. O ambiente natural é protegido por um parque estadual,
+        garantindo a preservação de sua rica biodiversidade, que inclui desde espécies raras de plantas e animais até
+        cachoeiras escondidas nas florestas. Essa combinação de mar, montanha e mata atlântica faz de Ilhabela um lugar
+        único, perfeito para quem aprecia ecoturismo e atividades ao ar livre, como trilhas, mergulho, e passeios de
+        barco.
+    </p>
+    <p>
+        Além de suas belezas naturais, Ilhabela também é conhecida por sua charmosa Vila, o centro histórico da ilha,
+        que encanta os visitantes com suas ruas de paralelepípedos, casarões coloniais e uma atmosfera acolhedora. A
+        Vila oferece uma variedade de restaurantes, lojas de artesanato e galerias de arte, proporcionando um contraste
+        agradável entre a natureza intocada e a cultura local vibrante. Durante o ano, Ilhabela também é palco de
+        eventos e competições náuticas, como a Semana Internacional de Vela, que atrai velejadores de todo o mundo. Com
+        um clima tropical e uma oferta diversificada de atrações, Ilhabela se destaca como um destino que une aventura,
+        relaxamento e cultura, fazendo dela um lugar inesquecível para turistas de todas as idades.
+    </p>
+
+    <h2>
+        Ubatuba
+    </h2>
+
+    <a href="ubatuba.html"><img src="img/ubatuba.webp"
+            alt="A imagem mostra uma praia paradisíaca em Ubatuba, um dos principais destinos turísticos do litoral norte de São Paulo. A cena retrata uma pequena baía com águas cristalinas, em tons de verde e azul, que são transparentes o suficiente para se ver o fundo do mar, especialmente nas áreas mais rasas perto da costa. A praia é rodeada por uma densa vegetação tropical, com árvores altas e uma rica cobertura verde que se estende até o limite da areia."
+            width="600px" height="350px"></a>
+
+    <p>
+        Ubatuba, situada no litoral norte do estado de São Paulo, é um dos destinos mais cobiçados do Brasil para os
+        amantes de praias e natureza. Com mais de 100 praias espalhadas ao longo de sua costa, a cidade oferece uma
+        diversidade impressionante de cenários, desde praias selvagens e isoladas, cercadas pela Mata Atlântica, até
+        praias mais movimentadas e urbanizadas, com infraestrutura completa para receber turistas. A vegetação
+        exuberante e preservada da região faz de Ubatuba um verdadeiro paraíso para os ecoturistas, que podem explorar
+        trilhas, cachoeiras e reservas naturais, como o Parque Estadual da Serra do Mar, que protege a rica
+        biodiversidade local. Além disso, Ubatuba é um importante ponto para o turismo náutico, com águas propícias para
+        a prática de esportes como surfe, mergulho e passeios de barco.
+    </p>
+    <p>
+        A cidade também é conhecida por sua cultura caiçara, refletida na gastronomia local, com pratos tradicionais à
+        base de frutos do mar, e em eventos culturais que celebram as tradições da comunidade. Ubatuba se destaca por
+        sua atmosfera tranquila e acolhedora, sendo um refúgio para aqueles que buscam escapar da agitação das grandes
+        cidades e se conectar com a natureza. Durante o verão, as praias de Ubatuba atraem visitantes de todas as
+        partes, mas a cidade também mantém seu charme durante o ano todo, oferecendo opções de lazer tanto para famílias
+        quanto para aventureiros. Com seu equilíbrio entre beleza natural, cultura local e atividades recreativas,
+        Ubatuba se consolidou como um dos destinos mais completos e encantadores do litoral paulista.
+    </p>
+
+    <h2>
+        Santos
+    </h2>
+
+    <a href="santos.html"><img src="img/santos.jpg" alt="placeholder" width="600px" height="350px"></a>
+
+    <h2>
+        São Sebastião
+    </h2>
+    <a href="ssebastiao.html"><img src="img/ssebastiao.jpg" alt="placeholder" width="600px" height="350px"></a>
+
+    <h2>
+        Holambra
+    </h2>
+    <a href="holambra.html"><img src="img/holambra.jpg" alt="placeholder" width="600px" height="350px"></a>
+
+    <h2>
+        Brotas
+    </h2>
+    <a href="brotas.html"><img src="img/brotas.jpg" alt="placeholder" width="600px" height="350px"></a>
+
+    <h2>
+        Atibaia
+    </h2>
+    <a href="atibaia.html"><img src="img/atibaia.jpeg" alt="placeholder" width="600px" height="350px"></a>
+
+    <h2>
+        São Roque
+    </h2>
+    <a href="sroque.html"><img src="img/sroque.jpg" alt="placeholder" width="600px" height="350px"></a>
+</body>
+
+</html>
