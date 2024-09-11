@@ -254,8 +254,8 @@ header .navegacao a:hover{
     }
 }
 
-@media(min-height:900px){
-    .lateral .flag img{
+@media(max-height:900px){
+    .lateral .flag{
         display:none
     }
 }
