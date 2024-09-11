@@ -76,6 +76,7 @@ header .navegacao a:hover{
     font-size: 20px;
     height: 100%;
     width: 670px;
+    letter-spacing: 1px;
 }
 
 .info .turism .title .btn{
@@ -245,4 +246,10 @@ header .navegacao a:hover{
 
 .informacao .info2{
     margin-top: 30px;
+}
+
+@media(max-width:1600px){
+    .lateral .flag{
+        display: none;
+    }
 }
