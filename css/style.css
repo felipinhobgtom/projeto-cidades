@@ -253,3 +253,9 @@ header .navegacao a:hover{
         display: none;
     }
 }
+
+@media(min-height:900px){
+    .lateral .flag img{
+        display:none
+    }
+}
